@@ -1,0 +1,2 @@
+# The Objective of the analysis
+The purpose of this project is to analyze customer transaction and purchasing behavior using data provided by QVI. Understanding customer preferences, purchasing patterns, and sales performance enables businesses to make informed decisions regarding product assortment, inventory management, and targeted marketing strategies. This report describes the data preparation process, exploratory data analysis, feature engineering, visualization of key findings, and business recommendations based on the results.
